@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<AssemblyName>Code.Application</AssemblyName>
+		<RootNamespace>Code.Application</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Folder Include="Categories\Queries\GetCategory\" />
+		<Folder Include="Products\Queries\GetProducts\" />
+		<Folder Include="Products\Queries\GetProduct\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+		<PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.2.2" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+		<PackageReference Include="Volo.Abp.ObjectMapping" Version="5.3.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Code.Domain\Code.Domain.csproj" />
+	</ItemGroup>
+
+</Project>

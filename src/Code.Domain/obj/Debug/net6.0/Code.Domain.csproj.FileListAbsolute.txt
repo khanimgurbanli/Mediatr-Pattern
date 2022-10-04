@@ -1,0 +1,12 @@
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\bin\Debug\net6.0\Code.Domain.deps.json
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\bin\Debug\net6.0\Code.Domain.dll
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\bin\Debug\net6.0\Code.Domain.pdb
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\Code.Domain.csproj.AssemblyReference.cache
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\Code.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\Code.Domain.AssemblyInfoInputs.cache
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\Code.Domain.AssemblyInfo.cs
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\Code.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\Code.Domain.dll
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\refint\Code.Domain.dll
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\Code.Domain.pdb
+C:\Users\KHANIM\source\repos\Mediatr\src\Code.Domain\obj\Debug\net6.0\ref\Code.Domain.dll

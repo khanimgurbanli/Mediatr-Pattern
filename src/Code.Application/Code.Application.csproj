@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Categories\Comamands\CreateCategory\" />
+    <Folder Include="Categories\Comamands\DeleteCategory\" />
+    <Folder Include="Categories\Comamands\UpdateCategory\" />
+    <Folder Include="Categories\Queries\GetCategory\" />
+    <Folder Include="Categories\Queries\GetCategories\" />
+    <Folder Include="Products\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Code.Domain\Code.Domain.csproj" />
+  </ItemGroup>
+	<AssemblyName>Code.Domain</AssemblyName>
+	<RootRootNamespace>Code.Domain</RootRootNamespace>
+
+</Project>
